@@ -10,6 +10,8 @@ Benefits include the "Standard Savings Account" plus access to "GCash transfer".
 The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
+------------------------------------------------------------------------------------------------------------------
+
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name:
 
 public class Cimb {
@@ -48,11 +50,14 @@ public class Cimb {
 	}
  }
 
-You should display the following output:
+------------------------------------------------------------------------------------------------------------------
+
+YOU SHOULD DISPLAY THE FOLLOWING OUTPUT:
 ![CODSSS](https://github.com/ErikkaEnaje/DecoratorPattern/assets/142382057/0f5e0612-48a8-413d-ba92-0372b58c5ae0)
 
-DESCRIPTION OF THE FOLLOWING METHODS:
+------------------------------------------------------------------------------------------------------------------
 
+DESCRIPTION OF THE FOLLOWING METHODS:
 showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
 getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
 getBalance() - Returns the balance of the account set.
@@ -63,6 +68,8 @@ computeBalanceWithInterest() - returns new balance by computing the balance plus
 showInfo() - Returns details of account number, account name, and balance.
 
 BankAcountDecorator must be an interface.
+
+------------------------------------------------------------------------------------------------------------------
 
 # UML DIAGRAM
 ![CODE](https://github.com/ErikkaEnaje/DecoratorPattern/assets/142382057/276d8d09-25bb-417b-9dc2-1cdd14b42d5c)
