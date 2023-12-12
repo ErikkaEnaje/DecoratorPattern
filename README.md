@@ -53,7 +53,9 @@ public class Cimb {
 ------------------------------------------------------------------------------------------------------------------
 
 YOU SHOULD DISPLAY THE FOLLOWING OUTPUT:
-![CODSSS](https://github.com/ErikkaEnaje/DecoratorPattern/assets/142382057/0f5e0612-48a8-413d-ba92-0372b58c5ae0)
+
+![CODSSS](https://github.com/ErikkaEnaje/DecoratorPattern/assets/142382057/d9e1b8da-4895-45bb-b0a0-8b35f1628712)
+
 
 ------------------------------------------------------------------------------------------------------------------
 
