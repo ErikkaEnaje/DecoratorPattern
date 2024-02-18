@@ -74,6 +74,7 @@ BankAcountDecorator must be an interface.
 ------------------------------------------------------------------------------------------------------------------
 
 # UML DIAGRAM
+- DecoratorPattern
 ![CODE](https://github.com/ErikkaEnaje/DecoratorPattern/assets/142382057/276d8d09-25bb-417b-9dc2-1cdd14b42d5c)
 
 
